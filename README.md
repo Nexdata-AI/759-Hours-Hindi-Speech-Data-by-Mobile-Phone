@@ -3,7 +3,8 @@
 ## Description
 The data is 759 hours long and was recorded by 1,425 Indian native speakers. The accent is authentic. The recording text is designed by language experts and covers general, interactive, car, home and other categories. The text is manually proofread, and the accuracy is high. Recording devices are mainstream Android phones and iPhones. It can be applied to speech recognition, machine translation, and voiceprint recognition.
 
-For more details, please refer to the link: https://bit.ly/3CbIEty
+For more details, please refer to the link: https://www.nexdata.ai/datasets/946?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
